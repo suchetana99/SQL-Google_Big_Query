@@ -10,3 +10,8 @@ Bar graph rep
 
 ![image](https://user-images.githubusercontent.com/100765828/156347053-c0b6e88e-9da2-438c-8838-90347973810f.png)
 
+2. county_natality2.sql
+
+all information related to maternal race and maternal morbidity in the Calhoun County, AL based on average age of the mother
+
+![image](https://user-images.githubusercontent.com/100765828/156442357-907b7ea7-a1ed-44d0-bd44-89574b353414.png)
