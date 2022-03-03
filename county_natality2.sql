@@ -1,10 +1,9 @@
---Code using Left Join
---county_natality_by_mother_race and county_natality_by_maternal_morbidity
+-- county_natality_by_maternal_morbidity
 
---extracting data on average age of mothers in the residency of Calhoun County,AL by relating maternal race and maternal morbidity datasets
+--what is the Total number of births in year 2018 from TX-residence  where avg_age of mother is between 26 and 33 and 
+--average weight after birth is greater than 3437.53
 
-SELECT mot_race.* ,mot_morb.*
- FROM `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_mother_race` mot_race
- LEFT JOIN `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_maternal_morbidity` mot_morb
- ON mot_race.Ave_Age_of_Mother= mot_morb.Ave_Age_of_Mother
- WHERE mot_race.County_of_Residence="Calhoun County, AL"
+SELECT SUM (Births) AS tot_birth FROM `bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_maternal_morbidity` 
+WHERE Year='2018-01-01'AND Ave_Age_of_Mother BETWEEN 26 AND 33
+AND Ave_Birth_Weight_gms > 3437.53
+AND County_of_Residence LIKE "%TX%"
