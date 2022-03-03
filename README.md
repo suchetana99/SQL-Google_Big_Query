@@ -12,12 +12,14 @@ Bar graph rep
 
 2. county_natality2.sql
 
-all information related to maternal race and maternal morbidity in the Calhoun County, AL based on average age of the mother
+hat is the Total number of births in year 2018 from TX-residence  where avg_age of mother is between 26 and 33 and 
+average weight after birth is greater than 3437.53
 
-![image](https://user-images.githubusercontent.com/100765828/156442357-907b7ea7-a1ed-44d0-bd44-89574b353414.png)
+![image](https://user-images.githubusercontent.com/100765828/156561906-f8a5faf7-d037-48aa-afbb-a9f8cf6a4654.png)
 
 3. county_natality3.sql
 
    residences having mothers with highest pre pregnancy bmi
    
    ![image](https://user-images.githubusercontent.com/100765828/156555666-4fefb4bd-ea62-4963-a544-1f21b612ae02.png)
+
