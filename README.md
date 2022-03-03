@@ -24,6 +24,7 @@ average weight after birth is greater than 3437.53
    ![image](https://user-images.githubusercontent.com/100765828/156555666-4fefb4bd-ea62-4963-a544-1f21b612ae02.png)
 
 4. iowa_liquor_sales1.sql
+
  How many rapes have been cleared by arrest in the year 2016, february to august?
 
 ![image](https://user-images.githubusercontent.com/100765828/156587338-9f88f431-a7db-4f94-a501-07b34d391dd5.png)
