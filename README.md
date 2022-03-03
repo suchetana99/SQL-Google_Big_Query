@@ -28,3 +28,14 @@ average weight after birth is greater than 3437.53
  How many rapes have been cleared by arrest in the year 2016, february to august?
 
 ![image](https://user-images.githubusercontent.com/100765828/156587338-9f88f431-a7db-4f94-a501-07b34d391dd5.png)
+
+5. iowa_liquor_sales
+
+what is the proportion of revenue sales greater than 22000 dollars earned by vendors in the county Scott?
+
+![image](https://user-images.githubusercontent.com/100765828/156631026-d0c09531-36db-4b6c-9ca5-edd7843e4bce.png)
+
+pie chart representation
+
+![image](https://user-images.githubusercontent.com/100765828/156631118-0e593f39-b3d9-476c-825b-030e3b7b5281.png)
+
