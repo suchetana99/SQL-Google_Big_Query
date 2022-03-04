@@ -47,7 +47,24 @@ Which group of population in Avery,NC have the highest average unemployment comp
 
 7. fips2.sql
 
+
+
 ![image](https://user-images.githubusercontent.com/100765828/156729917-be255511-26fe-44a6-8f69-345f6183fdef.png)
+
+8. Percentage_income_groups.sql
+
+Which category of income group has highest percentage in India?
+
+![image](https://user-images.githubusercontent.com/100765828/156760969-d33daa1d-4f30-4c05-9008-97fd7e07bffa.png)
+
+Which income groups are prevelant in the whole world?
+
+![image](https://user-images.githubusercontent.com/100765828/156761028-3876d3fc-c98b-4f44-858e-648aa1777609.png)
+
+The total percentage of the Lower Middle-Income group belongs from India is = (24451/1070913)*100 = 2.28%
+
+![image](https://user-images.githubusercontent.com/100765828/156761146-1fbc59cf-17e8-426b-ba68-1dbb08f64543.png)
+
 
 
 
