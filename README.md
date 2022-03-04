@@ -45,4 +45,9 @@ Which group of population in Avery,NC have the highest average unemployment comp
 
 ![image](https://user-images.githubusercontent.com/100765828/156719917-eb0318b3-ecac-46fe-aa3a-b35b6fbf028f.png)
 
+7. fips2.sql
+
+![image](https://user-images.githubusercontent.com/100765828/156729917-be255511-26fe-44a6-8f69-345f6183fdef.png)
+
+
 
