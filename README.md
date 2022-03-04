@@ -29,7 +29,7 @@ average weight after birth is greater than 3437.53
 
 ![image](https://user-images.githubusercontent.com/100765828/156587338-9f88f431-a7db-4f94-a501-07b34d391dd5.png)
 
-5. iowa_liquor_sales
+5. iowa_liquor_sales.sql
 
 what is the proportion of revenue sales greater than 22000 dollars earned by vendors in the county Scott?
 
@@ -38,4 +38,8 @@ what is the proportion of revenue sales greater than 22000 dollars earned by ven
 pie chart representation
 
 ![image](https://user-images.githubusercontent.com/100765828/156631118-0e593f39-b3d9-476c-825b-030e3b7b5281.png)
+
+6. fips1.sql
+![image](https://user-images.githubusercontent.com/100765828/156719917-eb0318b3-ecac-46fe-aa3a-b35b6fbf028f.png)
+
 
