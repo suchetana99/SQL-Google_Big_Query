@@ -40,6 +40,9 @@ pie chart representation
 ![image](https://user-images.githubusercontent.com/100765828/156631118-0e593f39-b3d9-476c-825b-030e3b7b5281.png)
 
 6. fips1.sql
+
+Which group of population in Avery,NC have the highest average unemployment compensation based on their per capita personal income?
+
 ![image](https://user-images.githubusercontent.com/100765828/156719917-eb0318b3-ecac-46fe-aa3a-b35b6fbf028f.png)
 
 
