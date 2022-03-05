@@ -23,7 +23,7 @@ average weight after birth is greater than 3437.53
    
    ![image](https://user-images.githubusercontent.com/100765828/156555666-4fefb4bd-ea62-4963-a544-1f21b612ae02.png)
 
-4. austin_crime1.sql
+4. austin_crime1(JOIN).sql
 
  How many rapes have been cleared by arrest in the year 2016, february to august?
 
@@ -51,7 +51,7 @@ What are the total employments in the respective counties where the net earnings
 
 ![image](https://user-images.githubusercontent.com/100765828/156729917-be255511-26fe-44a6-8f69-345f6183fdef.png)
 
-8. Percentage_income_groups.sql
+8. Percentage_income_groups(JOIN).sql
 
 Which category of income group has highest percentage in India?
 
@@ -75,6 +75,11 @@ What is the total cases of Mumps in the CA?
 
 ![image](https://user-images.githubusercontent.com/100765828/156872956-0afbf8b1-1748-4f0e-b48c-77ac357c4bf0.png)
 
+10. County_natality4(JOIN).sql
+
+Which residential counties have medicaid as the source of payment?
+
+![image](https://user-images.githubusercontent.com/100765828/156873392-3556c7ee-8eac-423a-ba5a-ae1d3aa229ba.png)
 
 
 
