@@ -65,6 +65,18 @@ The total percentage of the Lower Middle-Income group belongs from India is = (2
 
 ![image](https://user-images.githubusercontent.com/100765828/156761146-1fbc59cf-17e8-426b-ba68-1dbb08f64543.png)
 
+9. project_tycho_reports.sql
+
+What is the total cases of Mumps in the USA?
+
+![image](https://user-images.githubusercontent.com/100765828/156872923-e951ac0e-ada9-48b4-8993-16754da0192f.png)
+
+What is the total cases of Mumps in the CA?
+
+![image](https://user-images.githubusercontent.com/100765828/156872956-0afbf8b1-1748-4f0e-b48c-77ac357c4bf0.png)
+
+
+
 
 
 
