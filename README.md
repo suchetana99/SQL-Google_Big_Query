@@ -75,12 +75,11 @@ What is the total cases of Mumps in the CA?
 
 ![image](https://user-images.githubusercontent.com/100765828/156872956-0afbf8b1-1748-4f0e-b48c-77ac357c4bf0.png)
 
-10. County_natality4(JOIN).sql
+10. tree_census(JOIN).sql
 
-Which residential counties have medicaid as the source of payment?
+Which street has the maximum amount of old age trees?
 
-![image](https://user-images.githubusercontent.com/100765828/156873392-3556c7ee-8eac-423a-ba5a-ae1d3aa229ba.png)
-
+![image](https://user-images.githubusercontent.com/100765828/156875813-f712eb92-bac1-4439-874b-c61478f182ae.png)
 
 
 
