@@ -47,7 +47,7 @@ Which group of population in Avery,NC have the highest average unemployment comp
 
 7. fips2.sql
 
-
+What are the total employments in the respective counties where the net earnings is greater than 80000 as per residence?
 
 ![image](https://user-images.githubusercontent.com/100765828/156729917-be255511-26fe-44a6-8f69-345f6183fdef.png)
 
